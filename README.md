@@ -1,2 +1,2 @@
-# oldschool
-some funky things written in bash
+# bash-hammer
+some tools written in bash
